@@ -1,0 +1,7 @@
+.env
+/trash
+.idea
+go.mod
+go.sum
+Dockerfile
+.DS_Stores
